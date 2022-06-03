@@ -14,10 +14,20 @@
 
 
 @import url('../blocks/page/content/content.css');
+
 @import url('../blocks/page/content/description/description.css');
+@import url('../blocks/page/content/description/two-columns/two-columns.css');
+@import url('../blocks/page/content/description/two-columns/__brief/two-columns__brief.css');
+@import url('../blocks/page/content/description/two-columns/__main-text/two-columns__main-text.css');
+@import url('../blocks/page/content/description/two-columns/__paragraph/two-columns__paragraph.css');
+@import url('../blocks/page/content/description/two-columns/__span-accent/two-columns__span-accent.css');
+
 @import url('../blocks/page/content/digits/digits.css');
+
 @import url('../blocks/page/content/kaufman/kaufman.css');
+
 @import url('../blocks/page/content/resources/resources.css');
+
 @import url('../blocks/page/content/techniques/techniques.css');
 
 
