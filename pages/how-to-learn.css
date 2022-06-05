@@ -16,6 +16,9 @@
 @import url('../blocks/page/content/kaufman/kaufman.css');
 
 @import url('../blocks/page/content/resources/resources.css');
+@import url('../blocks/page/content/resources/__logo-zone/resources__logo-zone.css');
+@import url('../blocks/page/content/resources/__logo-zone/__link/resources__logo-zone__link.css');
+@import url('../blocks/page/content/resources/__logo-zone/__logo/resources__logo-zone__logo.css');
 
 @import url('../blocks/page/content/techniques/techniques.css');
 
@@ -34,10 +37,14 @@
 @import url('../blocks/section-title/section-tittle.css');
 @import url('../blocks/section-title/_place/section-title_place_techniques.css');
 @import url('../blocks/section-title/_place/section-title_place_digits.css');
+@import url('../blocks/section-title/_place/section-title_place_kaufman.css');
+@import url('../blocks/section-title/_place/section-title_place_resources.css');
 
 @import url('../blocks/section-subtitle/section-subtitle.css');
 @import url('../blocks/section-subtitle/_place/section-subtitle_place_techniques.css');
 @import url('../blocks/section-subtitle/_place/section-subtitle_place_digits.css');
+@import url('../blocks/section-subtitle/_place/section-subtitle_place_kaufman.css');
+@import url('../blocks/section-subtitle/_place/section-subtitle_place_resources.css');
 
 @import url('../blocks/cards/cards.css');
 @import url('../blocks/cards/_place/cards_place_techniques.css');
@@ -49,6 +56,17 @@
 
 @import url('../blocks/table/table.css');
 @import url('../blocks/table/_place/table_place_digits.css');
+@import url('../blocks/table/_place/table_place_kaufman.css');
 @import url('../blocks/table/__cell/table__cell.css');
-@import url('../blocks/table/__cell/__heading/table__cell_heading.css');
+@import url('../blocks/table/__cell/_place/table__cell_place_digits.css');
+@import url('../blocks/table/__cell/_place/table__cell_place_kaufman.css');
+@import url('../blocks/table/__cell/__heading/table__cell__heading.css');
 @import url('../blocks/table/__cell/__text/table__cell__text.css');
+
+
+@import url('../blocks/section-title/_theme/section-title_theme_dark.css');
+@import url('../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css');
+@import url('../blocks/table/_theme/table_theme_dark.css');
+@import url('../blocks/table/__cell/_theme/table__cell_theme_dark.css');
+@import url('../blocks/table/__cell/__heading/_theme/table__cell__heading_theme_dark.css');
+@import url('../blocks/table/__cell/__text/_theme/table__cell__text_theme_dark.css');
