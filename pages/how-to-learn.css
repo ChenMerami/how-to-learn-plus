@@ -33,13 +33,22 @@
 
 @import url('../blocks/section-title/section-tittle.css');
 @import url('../blocks/section-title/_place/section-title_place_techniques.css');
+@import url('../blocks/section-title/_place/section-title_place_digits.css');
 
 @import url('../blocks/section-subtitle/section-subtitle.css');
 @import url('../blocks/section-subtitle/_place/section-subtitle_place_techniques.css');
+@import url('../blocks/section-subtitle/_place/section-subtitle_place_digits.css');
 
 @import url('../blocks/cards/cards.css');
 @import url('../blocks/cards/_place/cards_place_techniques.css');
-@import url('../blocks/cards/__description/cards__description.css');
-@import url('../blocks/cards/__image/cards__image.css');
 @import url('../blocks/cards/__item/cards__item.css');
-@import url('../blocks/cards/__title/cards__title.css');
+@import url('../blocks/cards/__item/__image/cards__item__image.css');
+@import url('../blocks/cards/__item/__title/cards__item__title.css');
+@import url('../blocks/cards/__item/__description/cards__item__description.css');
+
+
+@import url('../blocks/table/table.css');
+@import url('../blocks/table/_place/table_place_digits.css');
+@import url('../blocks/table/__cell/table__cell.css');
+@import url('../blocks/table/__cell/__heading/table__cell_heading.css');
+@import url('../blocks/table/__cell/__text/table__cell__text.css');
