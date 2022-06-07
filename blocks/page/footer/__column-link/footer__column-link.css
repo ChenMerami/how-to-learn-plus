@@ -12,3 +12,8 @@
 .footer__column-link:last-of-type {
   margin-bottom: 0;
 }
+
+.footer__column-link:hover {
+  opacity: 0.4;
+  transition:0.5s linear;
+}

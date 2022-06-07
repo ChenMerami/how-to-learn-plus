@@ -1,4 +1,6 @@
 .section-title_place_kaufman {
   width: 60%;
   margin: 0 auto 0 auto;
+  position: relative;
+  z-index: 2;
 }
