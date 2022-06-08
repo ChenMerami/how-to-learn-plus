@@ -5,4 +5,8 @@
 
   width: 920px;
   margin: 0 auto;
+
+  list-style: none;
+  list-style-type: none;
+  text-indent: 0;
 }

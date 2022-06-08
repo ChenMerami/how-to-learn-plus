@@ -3,6 +3,7 @@
   right: 48px;
   top: 50%;
 
+  font: inherit;
   line-height: 51px;
   font-size: 36px;
   font-weight: 400;
@@ -13,5 +14,5 @@
 
 .feynman__link:hover {
   opacity: 0.6;
-  transition:0.5s linear;
+  transition: 0.5s linear;
 }

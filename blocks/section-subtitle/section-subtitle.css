@@ -1,9 +1,11 @@
 .section-subtitle {
   width: 60%;
   margin: 20px auto 0 auto;
+  padding: 0;
   position: relative;
   z-index: 2;
 
+  font: inherit;
   text-align: center;
   line-height: 34px;
   font-size: 24px;

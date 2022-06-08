@@ -1,3 +1,6 @@
 .footer__column-links {
   margin: 20px 0 16px 0;
+  list-style: none;
+  list-style-type: none;
+  text-indent: 0;
 }
